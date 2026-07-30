@@ -3,4 +3,3 @@ dist/
 .DS_Store
 .kilo/
 .playwright-mcp/
-package-lock.json
