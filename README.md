@@ -11,6 +11,7 @@ Highlights
 - Input controller that supports mouse/touch drag-to-rotate, taps, and keyboard shortcuts for moves (src/input/CubeInputController.ts)
 - Phaser scenes: BootScene, GameScene (orchestrator), and UIScene (overlay with controls and move grid)
 - UI controls for Scramble, Reset and Undo, move grid buttons, and keyboard shortcuts
+- Hosted at: https://ilusoft.github.io/rubik-phaser/
 
 Quickstart (dev)
 
